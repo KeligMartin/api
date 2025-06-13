@@ -4,5 +4,5 @@
   { "id": 3, "name": "Salade", "price": 7.5, "image": "salade.jpg" },
   { "id": 4, "name": "Sushis", "price": 20, "image": "sushis.jpg" },
   { "id": 5, "name": "Poulet vindaloo", "price": 13, "image": "poulet.jpg" },
-  { "id": 6, "name": "Burger", "price": 7.5, "image": "burger.jpg" },
+  { "id": 6, "name": "Burger", "price": 7.5, "image": "burger.jpg" }
 ]
