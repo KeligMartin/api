@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Football",
+    "slug": "football",
+    "type": "team",
+    "players_per_team": 11,
+    "match_duration_minutes": 90,
+    "governing_body": "FIFA",
+    "competition": {
+      "name": "Coupe du Monde FIFA 2026",
+      "host_country": "USA / Canada / Mexique",
+      "start_date": "2026-06-11",
+      "end_date": "2026-07-19",
+      "number_of_teams": 48,
+      "format": "Phase de groupes puis élimination directe"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Basketball",
+    "slug": "basketball",
+    "type": "team",
+    "players_per_team": 5,
+    "match_duration_minutes": 48,
+    "governing_body": "NBA",
+    "competition": {
+      "name": "NBA Playoffs 2026",
+      "host_country": "USA",
+      "start_date": "2026-04-18",
+      "end_date": "2026-06-22",
+      "number_of_teams": 16,
+      "format": "Séries en best-of-7"
+    }
+  },
+  {
+    "id": 3,
+    "name": "MMA",
+    "slug": "mma",
+    "type": "individual",
+    "players_per_team": 1,
+    "match_duration_minutes": 15,
+    "governing_body": "UFC",
+    "competition": {
+      "name": "UFC 300",
+      "host_country": "USA",
+      "venue": "T-Mobile Arena, Las Vegas",
+      "date": "2026-04-11",
+      "format": "Carte de 8 combats (Main Card + Prelims)"
+    }
+  }
+]
