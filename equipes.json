@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1, "sport_id": 1, "name": "France", "short_name": "FRA",
+    "country": "France", "confederation": "UEFA", "fifa_ranking": 2,
+    "world_cup_titles": 2, "world_cup_appearances": 16,
+    "coach": "Didier Deschamps", "group": "A"
+  },
+  {
+    "id": 2, "sport_id": 1, "name": "Argentine", "short_name": "ARG",
+    "country": "Argentine", "confederation": "CONMEBOL", "fifa_ranking": 1,
+    "world_cup_titles": 3, "world_cup_appearances": 18,
+    "coach": "Lionel Scaloni", "group": "B"
+  },
+  {
+    "id": 3, "sport_id": 1, "name": "Brésil", "short_name": "BRA",
+    "country": "Brésil", "confederation": "CONMEBOL", "fifa_ranking": 5,
+    "world_cup_titles": 5, "world_cup_appearances": 22,
+    "coach": "Dorival Júnior", "group": "C"
+  },
+  {
+    "id": 4, "sport_id": 1, "name": "Angleterre", "short_name": "ENG",
+    "country": "Angleterre", "confederation": "UEFA", "fifa_ranking": 4,
+    "world_cup_titles": 1, "world_cup_appearances": 16,
+    "coach": "Thomas Tuchel", "group": "D"
+  },
+  {
+    "id": 5, "sport_id": 1, "name": "Espagne", "short_name": "ESP",
+    "country": "Espagne", "confederation": "UEFA", "fifa_ranking": 3,
+    "world_cup_titles": 1, "world_cup_appearances": 16,
+    "coach": "Luis de la Fuente", "group": "E"
+  },
+  {
+    "id": 6, "sport_id": 1, "name": "Allemagne", "short_name": "GER",
+    "country": "Allemagne", "confederation": "UEFA", "fifa_ranking": 9,
+    "world_cup_titles": 4, "world_cup_appearances": 20,
+    "coach": "Julian Nagelsmann", "group": "F"
+  },
+  {
+    "id": 7, "sport_id": 1, "name": "Portugal", "short_name": "POR",
+    "country": "Portugal", "confederation": "UEFA", "fifa_ranking": 6,
+    "world_cup_titles": 0, "world_cup_appearances": 8,
+    "coach": "Roberto Martínez", "group": "G"
+  },
+  {
+    "id": 8, "sport_id": 1, "name": "Pays-Bas", "short_name": "NED",
+    "country": "Pays-Bas", "confederation": "UEFA", "fifa_ranking": 7,
+    "world_cup_titles": 0, "world_cup_appearances": 11,
+    "coach": "Ronald Koeman", "group": "H"
+  },
+  {
+    "id": 9, "sport_id": 1, "name": "Belgique", "short_name": "BEL",
+    "country": "Belgique", "confederation": "UEFA", "fifa_ranking": 8,
+    "world_cup_titles": 0, "world_cup_appearances": 14,
+    "coach": "Rudi Garcia", "group": "B"
+  },
+  {
+    "id": 10, "sport_id": 1, "name": "Maroc", "short_name": "MAR",
+    "country": "Maroc", "confederation": "CAF", "fifa_ranking": 14,
+    "world_cup_titles": 0, "world_cup_appearances": 6,
+    "coach": "Walid Regragui", "group": "D"
+  },
+  {
+    "id": 11, "sport_id": 2, "name": "Los Angeles Lakers", "short_name": "LAL",
+    "city": "Los Angeles", "conference": "Western", "seed": 4,
+    "regular_season_wins": 50, "regular_season_losses": 32,
+    "coach": "JJ Redick", "championships": 17, "arena": "Crypto.com Arena"
+  },
+  {
+    "id": 12, "sport_id": 2, "name": "Golden State Warriors", "short_name": "GSW",
+    "city": "San Francisco", "conference": "Western", "seed": 5,
+    "regular_season_wins": 48, "regular_season_losses": 34,
+    "coach": "Steve Kerr", "championships": 7, "arena": "Chase Center"
+  },
+  {
+    "id": 13, "sport_id": 2, "name": "Boston Celtics", "short_name": "BOS",
+    "city": "Boston", "conference": "Eastern", "seed": 1,
+    "regular_season_wins": 60, "regular_season_losses": 22,
+    "coach": "Joe Mazzulla", "championships": 18, "arena": "TD Garden"
+  },
+  {
+    "id": 14, "sport_id": 2, "name": "Denver Nuggets", "short_name": "DEN",
+    "city": "Denver", "conference": "Western", "seed": 3,
+    "regular_season_wins": 54, "regular_season_losses": 28,
+    "coach": "Michael Malone", "championships": 1, "arena": "Ball Arena"
+  },
+  {
+    "id": 15, "sport_id": 2, "name": "Miami Heat", "short_name": "MIA",
+    "city": "Miami", "conference": "Eastern", "seed": 8,
+    "regular_season_wins": 42, "regular_season_losses": 40,
+    "coach": "Erik Spoelstra", "championships": 3, "arena": "Kaseya Center"
+  },
+  {
+    "id": 16, "sport_id": 2, "name": "Milwaukee Bucks", "short_name": "MIL",
+    "city": "Milwaukee", "conference": "Eastern", "seed": 4,
+    "regular_season_wins": 49, "regular_season_losses": 33,
+    "coach": "Doc Rivers", "championships": 2, "arena": "Fiserv Forum"
+  },
+  {
+    "id": 17, "sport_id": 2, "name": "Phoenix Suns", "short_name": "PHX",
+    "city": "Phoenix", "conference": "Western", "seed": 6,
+    "regular_season_wins": 46, "regular_season_losses": 36,
+    "coach": "Mike Budenholzer", "championships": 0, "arena": "Footprint Center"
+  },
+  {
+    "id": 18, "sport_id": 2, "name": "Dallas Mavericks", "short_name": "DAL",
+    "city": "Dallas", "conference": "Western", "seed": 2,
+    "regular_season_wins": 56, "regular_season_losses": 26,
+    "coach": "Jason Kidd", "championships": 1, "arena": "American Airlines Center"
+  },
+  {
+    "id": 19, "sport_id": 2, "name": "Philadelphia 76ers", "short_name": "PHI",
+    "city": "Philadelphie", "conference": "Eastern", "seed": 3,
+    "regular_season_wins": 51, "regular_season_losses": 31,
+    "coach": "Nick Nurse", "championships": 3, "arena": "Wells Fargo Center"
+  },
+  {
+    "id": 20, "sport_id": 2, "name": "Oklahoma City Thunder", "short_name": "OKC",
+    "city": "Oklahoma City", "conference": "Western", "seed": 1,
+    "regular_season_wins": 62, "regular_season_losses": 20,
+    "coach": "Mark Daigneault", "championships": 1, "arena": "Paycom Center"
+  }
+]
