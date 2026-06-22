@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "destination": "Tokyo",
+    "country": "Japon",
+    "price": 1499,
+    "duration": 10,
+    "image": "tokyo.jpg",
+    "description": "Découvrez la capitale japonaise."
+  },
+  {
+    "id": 2,
+    "destination": "New York",
+    "country": "États-Unis",
+    "price": 1299,
+    "duration": 7,
+    "image": "newyork.jpg",
+    "description": "Séjour au cœur de Manhattan."
+  },
+  {
+    "id": 3,
+    "destination": "Rome",
+    "country": "Italie",
+    "price": 799,
+    "duration": 5,
+    "image": "rome.jpg",
+    "description": "Partez à la découverte de la ville éternelle."
+  },
+  {
+    "id": 4,
+    "destination": "Marrakech",
+    "country": "Maroc",
+    "price": 699,
+    "duration": 5,
+    "image": "marrakech.jpg",
+    "description": "Profitez du soleil et des souks."
+  },
+  {
+    "id": 5,
+    "destination": "Sydney",
+    "country": "Australie",
+    "price": 2399,
+    "duration": 14,
+    "image": "sydney.jpg",
+    "description": "Voyage exceptionnel en Australie."
+  },
+  {
+    "id": 6,
+    "destination": "Barcelone",
+    "country": "Espagne",
+    "price": 599,
+    "duration": 4,
+    "image": "barcelone.jpg",
+    "description": "Culture, plage et gastronomie."
+  }
+]
